@@ -1,0 +1,9 @@
+﻿.env
+.idea/
+.venv/
+*.html
+*.csv
+result.json
+runtime.txt
+__pycache__/
+*.pyc
